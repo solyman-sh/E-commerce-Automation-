@@ -1,0 +1,14 @@
+{
+    "name": "akash",
+    "email": "akash25@gmail.com",
+    "password":"akash1234",
+    "fname":"Akash",
+    "lname":"Khan",
+    "company":"Thechloop",
+    "address": "368, Mirpur. Dhaka",
+    "address2": "656, Banani Dhaka",
+    "state": "Dhaka",
+    "city": "Mirpur",
+    "zip": "125487",
+    "mobile": "32464654654"
+}
